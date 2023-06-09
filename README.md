@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alicia! I am a current applied economics student at Boston College. In my free time, I love singing and playing video games.
+- 👋 Hi, I’m Alicia! I am a current applied economics student at Boston College. In my free time, I love singing, dancing, and playing video games.
 - 👀 I’m interested in AI algorithms, machine learning, and improving my programming skills.
 - 🌱 I’m currently learning how to code using Python and refining my skills in R. 
 - 📫 I am easily reached through [LinkedIn](https://www.linkedin.com/in/aliciatang6/) or by email at alicia.k.tang@gmail.com. Feel free to connect as I am always looking for new connections! :)
