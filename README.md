@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alicia! I am a current applied economics student at Boston College. In my free time, I love singing, dancing, and playing video games.
-- 👀 I’m interested in AI algorithms, machine learning, and improving my programming skills.
+- 👀 I’m interested in AI algorithms, machine learning, and improving upon my programming skills and domain knowledge.
 - 🌱 I’m intermediate in Python, RStudio, and SQL but always continuously refining my skills.
 - 📫 You can easily reach me through [LinkedIn](https://www.linkedin.com/in/aliciatang6/) or through email at alicia.k.tang@gmail.com.
